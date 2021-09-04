@@ -1,0 +1,1 @@
+(()=>{"use strict";var a=function(a){console.log(a)};a("Sophart"),a("lakkhena"),a("Dara")})();
